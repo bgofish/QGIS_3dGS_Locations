@@ -21,18 +21,13 @@ A QGIS 3.x plugin for importing, georeferencing, and visualizing
 
 ## Installation
 
-### Manual (development)
+### Via Plugin Manager
 
-1. Clone or download this repository.
-2. Copy the `gaussian_splat_qgis/` folder into your QGIS plugins directory:
+1. Download this repository as a zip.
+2. In QGIS  Plugins → Manage and Install Plugins → InstaLL from ZIP. PLugins is instaLLed to the `gaussian_splat_qgis/` folder into your QGIS plugins directory:
    - **Linux/macOS:** `~/.local/share/QGIS/QGIS3/profiles/default/python/plugins/`
    - **Windows:** `%APPDATA%\QGIS\QGIS3\profiles\default\python\plugins\`
 3. Open QGIS → **Plugins → Manage and Install Plugins → Installed** → enable **Gaussian Splat Viewer**.
-
-### Via Plugin Manager (future)
-
-Once published to the QGIS plugin repository, install directly from
-**Plugins → Manage and Install Plugins → All**.
 
 ---
 
