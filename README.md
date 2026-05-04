@@ -86,17 +86,6 @@ No additional `pip install` required.
 
 ---
 
-## Roadmap
-
-- [ ] QGIS 3D Map View integration (volumetric splat preview)
-- [ ] Ground control point (GCP) georeferencing
-- [ ] Export georeferenced point cloud as QGIS vector layer
-- [ ] GPU-accelerated rendering via OpenGL (QgsCustomRenderingPlugin)
-- [ ] Streaming / tiled rendering for >1M gaussian scenes
-- [ ] `.splat` → GeoPackage round-trip
-
----
-
 ## Contributing
 
 PRs welcome. Please open an issue first for major changes.
